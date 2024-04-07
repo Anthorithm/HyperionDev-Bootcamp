@@ -1,23 +1,30 @@
 # Build Your Brand 03 Project
 
-Practical Task 1 Summary:
+For "Build Your Brand 03," the assignment involves expanding the job search and engaging with potential employers. The specific steps included:
 
-For "Build Your Brand 03," the practical task involved expanding the job search and engaging with potential employers. The specific steps included are:
+### Practical Task 1 Summary:
 
-1. Creating a Google document with a unique filename (including your name, email address, and task identifier BYB3) to document your progress.
+1. **Creating a Google document**:
+- Create a Google doc with a unique filename (including your name, email address, and task identifier BYB3) to document your progress.
 
-2. Finding five junior tech roles currently being advertised, considering a variety of employers, including large companies, small companies, tech scale-ups, paid internships, apprenticeships, and companies that source, hire, and train.
+2. **Finding job roles**: 
+- Finding five junior tech roles currently being advertised, considering a variety of employers, including large companies, small companies, tech scale-ups, paid internships, apprenticeships, and companies that source, hire, and train.
 
-3. Identifying recruiting or hiring managers for each role and obtaining their contact details, including email addresses for at least two individuals and LinkedIn profile URLs for all.
+3. **Identifying contacts**: 
+- Locate recruiting or hiring managers for each role and obtain their contact details, including email addresses for at least two individuals and LinkedIn profile URLs for all.
 
-4. Creating and submitting applications for the identified job opportunities and reaching out to the contacts identified through email, LinkedIn direct message, phone call, etc., to draw their attention to your application.
+4. **Submit applications**: 
+- Creating and submitting applications for the identified job opportunities and reaching out to the contacts identified through email, LinkedIn direct message, phone call, etc., to draw their attention to your application.
+- Utilise the provided template spreadsheet to track applications. 
+ 
+6. **All students**:
+- Fill in details of the job opportunities and contact people you have identified into a form.
+- Add a public link to your job/pitch opportunities into your google doc.
+- Signing up for a hackajob profile using a custom link and taking a screenshot of the personalised profile for inclusion in the Google document.
 
-5. Tracking applications using the provided template spreadsheet and filling in details of the contact people into a form.
+7. **Documentation and submission**:
+- Ensuring the Google document contains the answers to the task (including the Practical Task 1 form content screenshot, link to the tracker spreadsheet, and hackajob profile screenshot). 
+- Saving the document as a PDF and uploading the PDF file to Dropbox.
 
-6. Signing up for a hackajob profile using a custom link and taking a screenshot of the personalized profile for inclusion in the Google document.
-
-7. Ensuring the Google document contains the answers to the task (including the Practical Task 1 form content screenshot, link to the tracker spreadsheet, and hackajob profile screenshot).
-
-8. Saving the document as a PDF and uploading the PDF file to Dropbox.
-
-Overall, the task aims to enhance job search efforts, establish connections with potential employers, and expand professional networking opportunities within the tech industry.
+### Overview:
+Overall, the assignment aims to enhance job search efforts, establish connections with potential employers, and expand professional networking opportunities within the tech industry.
