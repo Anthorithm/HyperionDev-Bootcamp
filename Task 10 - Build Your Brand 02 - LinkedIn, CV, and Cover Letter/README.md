@@ -1,43 +1,46 @@
 # Build Your Brand 02 Project
 
-Practical Task 1 Summary:
+For "Build Your Brand 02," the assignment involved setting up a professional LinkedIn profile/updating it and incorporating it into your CV, practising cover letter writing skills, and expanding job opportunities. The specific steps included:
 
-For "Build Your Brand 02," the first practical task involved setting up a professional LinkedIn profile and incorporating it into your CV. The specific steps included:
+### Practical Task 1 Summary:
 
-1. Joining LinkedIn if not already a member and completing the profile according to provided tips and guidelines.
+1. **Managing LinkedIn**:
+- Join LinkedIn if you haven't already, complete your profile according to provided tips and guidelines.
+- Locate and follow the HyperionDev company page on LinkedIn, take a screenshot to show you have done this. 
+- Add the bootcamp you are completing to the education section, again take a screenshot to show you have done this.
+- Add your LinkedIn profile link to your CV.
 
-2. Creating a Google document with a unique filename (including your name, email address, and task identifier BYB2) to document your progress.
+2. **Creating a Google document**:
+- Create a Google doc with a unique filename (including your name, email address, and task identifier BYB2) to document your progress.
+- Ensure screenshots of any LinkedIn changes are uploaded to the Google Doc. 
 
-3. Following the HyperionDev company page on LinkedIn and adding the bootcamp to the education section.
+### Practical Task 2 Summary:
 
-4. Adding the LinkedIn profile link to your CV.
+1. **CV and cover letter practice**:
+ - Reviewing job adverts in the Job Descriptions folder in Dropbox, focusing on roles related to Software Engineering.
+ - Crafting a tailored version of the CV and cover letter based on the selected job advert.
+ - Demonstrate you have spent adequate time researching the company in the second paragraph of your cover letter.
+ - Uploading the PDF versions of the CV and cover letter to Dropbox.
 
-The focus was on establishing a strong online presence and integrating LinkedIn into your professional documentation.
+### Practical Task 3 Summary:
 
-Practical Task 2 Summary:
+1. **Finding job roles**:
+- Find five diverse job opportunities across various company sizes and types, including internships, apprenticeships, and tech scale-ups.
 
-In the second practical task, participants were required to engage with job descriptions relevant to their bootcamp specialisation. The steps included:
+2. **Identifying contacts**:
+- Identifying recruiting or hiring managers for each role and obtaining their contact details, particularly email addresses and LinkedIn profile URLs.
 
-1. Reviewing job adverts in the Job Descriptions folder in Dropbox, focusing on roles related to Software Engineering.
+3. **Submit applications**: 
+- Creating and submitting applications for the identified job opportunities, as well as reaching out to the contacts identified in previous tasks.
 
-2. Crafting a tailored version of the CV and cover letter based on a selected job advert.
+4. **Tracking applications**:
+- Track applications in the Job/Interview/Pitch Opportunities tracker.
+- Fill in details of the job opportunities and contact people you have identified, including your LinkedIn profile link into a form.
+- Add a public link to the Job/Interview/Pitch Opportunities tracker to the BYB2 Google document.
 
-3. Uploading the PDF versions of the CV and cover letter to Dropbox.
+5. **Documentation and submission**:
+- Ensure the Google document contains the answers to Practical Task 1, 2, 3.
+- Saving the document as a PDF and uploading the PDF file to Dropbox.
 
-The emphasis was on customising application materials to match specific job requirements and demonstrating research on potential employers.
-
-Practical Task 3 Summary:
-
-The third practical task involved expanding the job search by identifying and applying to five additional junior tech roles. Key steps included:
-
-1. Finding diverse job opportunities across various company sizes and types, including internships, apprenticeships, and tech scale-ups.
-
-2. Identifying recruiting or hiring managers for each role and obtaining their contact details, particularly email addresses and LinkedIn profile URLs.
-
-3. Creating and submitting applications for the identified job opportunities, as well as reaching out to the contacts identified in previous tasks.
-
-4. Completing a form with LinkedIn profile links and details of identified contacts, and adding a public link to the Job/Interview/Pitch Opportunities tracker to the BYB2 Google document.
-
-The task aimed to broaden job search efforts and establish direct connections with potential employers or recruiters.
-
-Overall, the Build Your Brand 02 project focused on enhancing professional online presence, tailoring application materials, and expanding job search strategies within the tech industry.
+### Overview:
+Overall, the Build Your Brand 02 project focused on enhancing professional online presence, tailoring application materials, and expanding job search strategies within the Software Engineering industry.
